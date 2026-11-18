@@ -1,0 +1,13 @@
+name,value,description
+E_kin_eV,30800,electron kinetic energy
+L_m,2.8e-05,interaction length
+a,115477.97378,recoil parameter
+g,0.193199831896,coupling strength
+delta_v,0.0121341130736,velocity mismatch v/v_ph - 1
+l_max,201,sideband truncation |l| <= l_max
+d_zeta,0.1,propagation step
+d_phi,-0.0988011358458,field-phase step per propagation step (-d_zeta v_ph/v)
+zeta_per_m,17767590.51,omega/v: zeta per metre
+z_T_m,0.0408366856355,Talbot distance
+z_free_at_max_DOC1_over_zT,1.01311311311,free-propagation distance of panels (e)/(j)
+max_DOC1,0.535405565139,maximum DOC_1 in the window

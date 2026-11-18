@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite the article."
+title: "Recoil-Enhanced Temporal Electron Compression: data and code"
+authors:
+  - family-names: Brada
+    given-names: Tomáš
+  - family-names: Velasco
+    given-names: Cruz I.
+  - family-names: García de Abajo
+    given-names: F. Javier
+license: MIT
+version: 1.0.0
+preferred-citation:
+  type: article
+  title: "Recoil-enhanced temporal electron compression"
+  authors:
+    - family-names: Brada
+      given-names: Tomáš
+    - family-names: Velasco
+      given-names: Cruz I.
+    - family-names: García de Abajo
+      given-names: F. Javier
+  journal: "Physical Review Research"
+  year: 2026
+  doi: "10.1103/z5nb-hq28"
+  url: "https://doi.org/10.1103/z5nb-hq28"

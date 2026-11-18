@@ -1,0 +1,10 @@
+name,value,description
+a,10000,recoil parameter of panels (a) and (b)
+g,0.1,coupling strength
+l_max,270,sideband truncation of panels (a) and (b)
+d_zeta,1,propagation step
+d_phi,-1,field-phase step per step of panels (a) and (b): phase matching at ell_sim = 0
+a_c,1e+12,recoil parameter of panel (c) (nonrecoil limit)
+l_max_c,50,sideband truncation of panel (c)
+d_phi_c,-1.019,field-phase step per step of panel (c)
+plotted_vertical_axis,-ell_sim,vertical coordinate of the published figure (labelled l - l_ph)
