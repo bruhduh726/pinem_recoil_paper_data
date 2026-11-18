@@ -1,0 +1,5 @@
+name,value,description
+Omega_sq_over_omega_sq,5.30226871802e-06,Omega^2/omega^2
+wavelength_m,1.064e-06,light wavelength
+E0_V_per_m,4000000,field amplitude
+n,4,parallel wave vector k = n omega/c

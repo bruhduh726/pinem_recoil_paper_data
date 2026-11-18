@@ -1,0 +1,7 @@
+name,value,description
+a,10000,recoil parameter
+g,0.1,coupling strength
+d_zeta,1,propagation step
+d_phi,-d_zeta*(1 - delta_v),field-phase step per propagation step
+photon_energy_eV,2,photon energy for the z axis
+z_um_per_zeta,0.0136048440345,z (um) per unit of zeta

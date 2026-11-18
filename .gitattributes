@@ -1,0 +1,2 @@
+# keep the data files byte-identical on every platform
+*.csv -text

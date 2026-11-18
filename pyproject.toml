@@ -1,0 +1,14 @@
+[project]
+name = "pinem-recoil-paper-data"
+version = "1.0.0"
+description = "Data and code reproducing the figures of the paper on recoil effects in inelastic electron-light interaction"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=2.0",
+    "scipy>=1.11",
+    "matplotlib>=3.8",
+    "jupyterlab>=4.0",
+]
+
+[tool.uv]
+package = false

@@ -1,0 +1,10 @@
+name,value,description
+wavelength_m,1.064e-06,light wavelength
+E0_V_per_m,4000000,field amplitude
+E_kin_phase_matched_eV,30000,kinetic energy of the phase-matched electron
+d_zeta,0.1,propagation step
+d_phi,-d_zeta*v_ph/v,field-phase step per propagation step
+truncation_margin,100,sidebands added to the estimated populated range
+zfree_min_over_zT,0.75,free-propagation window searched for the maximum of DOC_1
+zfree_max_over_zT,1.25,(DOC_1 is periodic with period z_T/2)
+n_zfree,5001,number of free-propagation samples in the window

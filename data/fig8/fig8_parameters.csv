@@ -1,0 +1,34 @@
+name,value,description
+zeta_max,800,interaction distance of panels (a)-(d) (d_zeta = 1)
+a_ab,1e+12,recoil parameter
+g_ab,0.02,coupling strength
+l_max_ab,50,sideband truncation
+d_phi_per_d_zeta_ab,-1,field-phase step per unit propagation step
+a_cd,20000,recoil parameter
+g_cd,0.1,coupling strength
+l_max_cd,30,sideband truncation
+d_phi_per_d_zeta_cd,-0.975,field-phase step per unit propagation step
+a_efg,1e+12,recoil parameter
+g_efg,0.02,coupling strength
+l_max_efg,50,sideband truncation
+d_phi_per_d_zeta_efg,-1,field-phase step per unit propagation step
+zeta_int_efg,25,interaction distance
+shift_half_period_efg,False,state multiplied by (-1)^l
+d_zeta_efg,0.1,propagation step
+max_DOC1_efg,0.338724005683,maximum DOC_1 during free propagation
+a_hij,10000000000,recoil parameter
+g_hij,0.02,coupling strength
+l_max_hij,80,sideband truncation
+d_phi_per_d_zeta_hij,-1,field-phase step per unit propagation step
+zeta_int_hij,250,interaction distance
+shift_half_period_hij,True,state multiplied by (-1)^l
+d_zeta_hij,0.1,propagation step
+max_DOC1_hij,0.338472066913,maximum DOC_1 during free propagation
+a_klm,20000,recoil parameter
+g_klm,0.1,coupling strength
+l_max_klm,30,sideband truncation
+d_phi_per_d_zeta_klm,-0.975,field-phase step per unit propagation step
+zeta_int_klm,244,interaction distance
+shift_half_period_klm,False,state multiplied by (-1)^l
+d_zeta_klm,0.1,propagation step
+max_DOC1_klm,0.541545014311,maximum DOC_1 during free propagation

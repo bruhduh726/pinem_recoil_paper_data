@@ -1,0 +1,6 @@
+name,value,description
+a_values,2000 4000 6000 8000,recoil parameters (rows of the figure)
+g_values,0.1 0.2 0.3 0.4,coupling strengths (columns of the figure)
+l_max,130,sideband truncation |l| <= l_max
+d_zeta,1,propagation step
+d_phi,-1,field-phase step per propagation step (phase matching)

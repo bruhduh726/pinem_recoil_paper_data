@@ -1,0 +1,9 @@
+name,value,description
+wavelength_m,5.32e-07,light wavelength
+n_prism,3.55,refractive index of the prism
+incidence_angle_deg,60,angle of incidence (total internal reflection)
+v_ph_m_per_s,97512820.4661,phase velocity of the evanescent field
+E_field_V_per_m,8000000,amplitude of the real field 2 E0 cos(...) (E0 = 4 MV/m)
+dt_s,1e-16,time step of the classical integration
+d_zeta,1,propagation step of the quantum calculation
+d_phi,-d_zeta*(2 - v0/v_ph),field-phase step per propagation step
